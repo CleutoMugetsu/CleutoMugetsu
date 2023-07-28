@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💻I seek knowledge in ADM and Code
 - 👨‍💻 My professional goal is to be a Tech Lead
 - 💬 Feel free to chat
-- 📫 Contact: cleutojunior.cj@gmail.com
+- 📫 Contact: cleutojunior.cj@gmail.com | cleutojunior@hotmail.com
 
 <p align="center">I'm studying Analysis and System Development Degree and bachelor of business and am studying at kenzie academy for fullstack web dev</p></br>
 
