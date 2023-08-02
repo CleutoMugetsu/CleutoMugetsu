@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img alt="Cleuto-Js" height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Cleuto-HTML" height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="Cleuto-CSS" height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="Cleuto-react" height="60em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+    <img alt="Cleuto-react" height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div></br>
   
   <h1 align="center">Contacts</h1></br>
