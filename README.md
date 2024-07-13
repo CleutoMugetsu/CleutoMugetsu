@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - 📫 Contact: cleutojunior.cj@gmail.com | cleutojunior@hotmail.com
 
 <p align="center">I'm studying Analysis and System Development Degree and bachelor of business and am studying at kenzie academy for fullstack web dev</p></br>
-  
+
+  <h1 align="center">Status</h1></br>
+  <div align="center">
+    <a href="https://github.com/CleutoMugetsu">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleutoMugetsu&layout=compact&langs_count=7&theme=dark"/>
+  </div></br>
   
 <h1 align="center">Hard Skills</h1></br>
   <div style="display: inline_block"; align="center"><br>
